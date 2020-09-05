@@ -1,6 +1,7 @@
 package ru.geekbrains.lesson_a.home;
 
 public class Exercise_2 {
+
     public static void main(String[] args) {
         System.out.println(task10and20 (5, 8));
     }
